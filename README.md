@@ -4,7 +4,6 @@ Proyecto académico de **Ciencia de Datos** desarrollado para la asignatura **Ge
 
 El proyecto desarrolla un flujo reproducible de análisis y clasificación para **priorizar reservas que podrían requerir acciones preventivas**. El puntaje del modelo es un apoyo a la revisión administrativa: no corresponde a una probabilidad calibrada, no sustituye decisiones humanas y nunca debe utilizarse para cancelar o negar una atención.
 
-> **Estado del repositorio:** contiene el notebook, el dataset sintético, las dos exportaciones CSV, la evidencia del dashboard y un borrador del informe. El informe todavía tiene campos `[COMPLETAR]`; no se presenta como versión final de entrega.
 
 ## Resumen del proyecto
 
