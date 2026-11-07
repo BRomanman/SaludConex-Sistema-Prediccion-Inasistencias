@@ -167,13 +167,3 @@ Python, Google Colab, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Looker S
 - Ignacio Gómez
 - Vicente Contreras
 
-## Antes de publicar como repositorio público
-
-1. Completar los enlaces externos de Colab y Looker Studio.
-2. Terminar los campos `[COMPLETAR]` del borrador del informe y actualizar la captura de Trello que contiene un estado anterior del tablero.
-3. Confirmar con el equipo las responsabilidades concretas atribuidas a cada integrante y la causa real del cambio de Power BI a Looker Studio.
-4. Revisar que todos los integrantes acepten que sus nombres aparezcan públicamente. Los RUT de la copia del informe incluida aquí se han ocultado.
-5. Confirmar que existe autorización para redistribuir el enunciado académico incluido en `docs/caso/`.
-6. Decidir una licencia antes de publicar. No se asignó una licencia automáticamente; véase `LICENSE_PENDIENTE.md`.
-
-**Recomendación:** mantener el repositorio privado mientras se completan estos puntos, y compartirlo con el docente mediante invitación.
