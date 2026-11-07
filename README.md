@@ -57,46 +57,54 @@ El modelo identifica alrededor del 70 % de las inasistencias del conjunto de pru
 ## Estructura del repositorio
 
 ```text
-SaludConex_GitHub_2026/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── .gitattributes
-├── notebooks/
-│   ├── README.md
-│   └── SaludConex_Implementacion_Tecnica_Final.ipynb
-├── data/
-│   ├── README.md
-│   └── raw/
-│       ├── README.md
-│       └── SaludConex_Datos_Sinteticos_50000.csv
-├── outputs/
-│   ├── README.md
-│   ├── predicciones/
-│   │   ├── README.md
-│   │   └── SaludConex_Predicciones_Looker.csv
-│   └── evaluacion/
-│       ├── README.md
-│       └── SaludConex_Evaluacion_Modelo.csv
+SaludConex-Sistema-Prediccion-Inasistencias/
+│
 ├── dashboard/
-│   ├── README.md
 │   ├── capturas/
 │   │   ├── 01_Resumen_General.png
 │   │   ├── 02_Analisis_Reservas_Riesgo.png
 │   │   └── 03_Evaluacion_Modelo.png
-│   └── evidencia/
-│       └── SaludConex_Dashboard_LookerStudio.pdf
+│   │
+│   ├── evidencia/
+│   │   └── SaludConex_Dashboard_LookerStudio.pdf
+│   │
+│   └── README.md
+│
+├── data/
+│   ├── raw/
+│   │   ├── README.md
+│   │   └── SaludConex_Datos_Sinteticos_50000.csv
+│   │
+│   └── README.md
+│
 ├── docs/
 │   ├── caso/
-│   │   ├── README.md
-│   │   └── Caso_2_SaludConex_Enunciado.pdf
+│   │
 │   ├── informe/
+│   │   ├── informe tecnico extra/
+│   │   └── Informe_SaludConex-short.docx.pdf
+│   │
+│   ├── seguimiento/
+│   │
+│   └── README.md
+│
+├── notebooks/
+│   ├── README.md
+│   └── SaludConex_Implementacion_Tecnica_Final.ipynb
+│
+├── outputs/
+│   ├── evaluacion/
 │   │   ├── README.md
-│   │   ├── Informe_SaludConex_EP5_EP6_BORRADOR_PUBLICABLE.docx
-│   │   └── Informe_SaludConex_EP5_EP6_BORRADOR_PUBLICABLE.pdf
-│   └── seguimiento/
-│       └── Trello_Resumen.md
-└── LICENSE_PENDIENTE.md
+│   │   └── SaludConex_Evaluacion_Modelo.csv
+│   │
+│   └── predicciones/
+│       ├── README.md
+│       └── SaludConex_Predicciones_Looker.csv
+│
+├── .gitattributes
+├── .gitignore
+├── README.md
+└── requirements.txt
 ```
 
 ## Cómo revisar o ejecutar
